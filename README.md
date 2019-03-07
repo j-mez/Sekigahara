@@ -1,0 +1,2 @@
+# Sekigahara
+implementation of sekigahara
